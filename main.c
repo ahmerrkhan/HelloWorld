@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello world!\n");
+    printf("From GitHub\n");
     return 0;
 }
